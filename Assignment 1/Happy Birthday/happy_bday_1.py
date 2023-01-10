@@ -1,0 +1,5 @@
+userName = input("Please type in your name ")
+print("Happy Birthday to you, ")
+print("Happy Birthday to you, ")
+print("Happy Birthday dear ", userName, ",")
+print("Happy Birthday to you")
